@@ -1,0 +1,15 @@
+                                                                 Day one tasks
+QUSTION :1
+ => different between http1 vs http2
+ANSWER :
+1.http2 is faster than http1 on web page loading 
+2.http1 is only one request sent  at a time on TCP so we need too may connections to multiple requests. But http2 is not need too many connection needed
+3 http2 performance is more efficient on http1 performance.  
+QUSTION : 2
+=> what you know about objects and its internal representation in JavaScript ?
+1.the object method is one of the important method in JavaScript
+2.this object is main three key are  impartent (object ,key and value)
+(EXAPMLE  : mymobil : google pixel 3 => mymobile is "object" ,brand is "key" and googlepixel3 is "vale" )
+3.this method adding the lot of details on user requirement 
+4. to access the details is easy 
+(EXAPLE : console.log(mymobile.brand)[result : google pixel 3]
